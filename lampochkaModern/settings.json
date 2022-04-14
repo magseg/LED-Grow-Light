@@ -1,0 +1,14 @@
+{
+  "MQTT_CLIENT": {
+    "HOST": "t1.bast.ru",
+    "PORT": 1883,
+    "USERNAME": "admin",
+    "PASSWORD": "adminpsw",
+    "CLIENT_ID_PREFIX": "LedBackend",
+    "DEVICE_TYPE": "FFF3",
+    "DEVICE_TOPIC": "api/v1/led",
+    "SERIAL_NUMBER": "7C9EBD4579D07C9EBD4579D0",
+    "MAX_LINE_VALUE": 4,
+    "MIN_LINE_VALUE": 0
+  }
+}
