@@ -1,0 +1,21 @@
+{
+  "type": "FFF3",
+  "wifi": {
+    "essid": "KB2",
+    "password": "Bast2021Ion"
+  },
+  "mqtt": {
+    "host": "mqtt0.bast-dev.ru",
+    "port": 1883,
+    "username": "username",
+    "password": "password",
+    "topic": {
+      "status": "status",
+      "api": "api/v1/led/+/+"
+    }
+  },
+  "gpio": {
+    "branch": [ 14, 12, 4, 2 ],
+    "color_order": "RBG"
+  }
+}
